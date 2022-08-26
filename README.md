@@ -9,4 +9,5 @@ Goodvibetribe011/Goodvibetribe011 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-echo My first readme > README.md 
+
+
